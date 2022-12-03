@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34434",
   "files" : {
+    "\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.gitignore",
+      "oF" : 0
+    },
     "\/.VSCodeCounter\/2022-12-03_00-50-55\/details.md" : {
       "cB" : 0,
       "cS" : 0,
