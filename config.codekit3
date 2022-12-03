@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34434",
   "files" : {
+    "\/css\/app.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/app-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/job-listing-dark.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -28,6 +40,21 @@
       "oA" : 0,
       "oAP" : "\/css\/app.css",
       "oF" : 2,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/partials\/_vars.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/partials\/_vars.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
