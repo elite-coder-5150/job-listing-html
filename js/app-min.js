@@ -1,0 +1,1 @@
+const body=document.querySelector("body"),toggleClass=()=>{body.classList.contains("dark")?body.classList.remove("dark"):body.classList.add("dark")};body.classList.contains("dark")?body.classList.remove("dark"):body.classList.add("dark");
